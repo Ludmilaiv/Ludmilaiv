@@ -52,14 +52,8 @@
     <li><b><a href="https://docs.google.com/document/d/1-z_qBnKHtmhSAyiJwQDSHqaBjVeQbnEcQbfNksQ73wg/edit?usp=sharing">Описание проекта и документация сайта</a></b></li>
     <li><b><a href="http://h913172l.beget.tech/">Опубликованная демо-версия</a></b></li>
     <li><b><a href="http://h913172l.beget.tech/?administrator">Админ-панель демо-версии (пароль: admin)</a></b></li>
-    <li><b>Используемые технологии:</b> React, PHP</li>
-    <li><b>Код:</b>
-      <ul>
-        <li><a href="https://github.com/Ludmilaiv/zavodktm-react-app">Веб-приложение (react)</a></li>
-        <li><a href="https://github.com/Ludmilaiv/zavodktm_android_app">Приложение на Android (react + java)</a></li>
-        <li><a href="https://github.com/Ludmilaiv/zavodktm-php-app">API (PHP)</a></li>
-      </ul>
-    </li>
+    <li><b>Используемые технологии:</b> React, TypeScript, Sass, PHP</li>
+    <li><b><a href="https://github.com/Ludmilaiv/approvecho">Код</a></b></li>
   </ul>
 </div>
 
