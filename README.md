@@ -93,8 +93,8 @@
   <ul>
     <li><b>Заказчик:</b> ООО "Бон-аппетит" (кофейня "Проспект")</li>
     <li>Вёрстка по дизайну заказчика. К сожалению, прокт не получил продолжения и был остановлен на этапе вёрстки, так как заказчик закрыл кафе</li>
-    <li><b><a href="https://ludmilaiv.github.io/repair-design/">Опубликованная демо-версия</a></b></li>
+    <li><b><a href="https://ludmilaiv.github.io/food/">Опубликованная демо-версия</a></b></li>
     <li><b>Используемые технологии:</b> HTML, Sass, JavaScript</li>
-    <li><b><a href="https://ludmilaiv.github.io/food/">Код</a></b></li>
+    <li><b><a href="https://github.com/Ludmilaiv/food">Код</a></b></li>
   </ul>
 </details>
