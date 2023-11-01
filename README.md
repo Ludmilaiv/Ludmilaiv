@@ -30,8 +30,8 @@
 </div>
 
 <h3>Мои проекты</h3>
-<div>
-  <h4>⚡ Система удалённого управления автоматическими твердотопливными котлами отопления на базе контроллера модели Biomatic</h4>
+<details>
+  <summary><b>⚡ Система удалённого управления автоматическими твердотопливными котлами отопления на базе контроллера модели Biomatic</b></summary>
   <ul>
     <li><b>Заказчик:</b> <a href="https://kotelktm.ru/">ООО "КрасТеплоМаш"</a> в лице директора Хмелевского Артёма Александровича</li>
     <li><b><a href="https://docs.google.com/presentation/d/1lZ6JqIJbUf-6YieapZxhI2CFhIU2p0tHgJCWiAL0UZw/edit?usp=sharing">Описание проекта</a></b></li>
@@ -45,8 +45,9 @@
       </ul>
     </li>
   </ul>
-
-  <h4>⚡ Сайт ресторана Аппровечо с админ-панелью</h4>
+</details>
+<details>
+  <summary><b>⚡ Сайт ресторана Аппровечо с админ-панелью</b></summary>
   <ul>
     <li><b>Заказчик:</b> ИП Мкртчян Хачатур </li>
     <li><b><a href="https://docs.google.com/document/d/1-z_qBnKHtmhSAyiJwQDSHqaBjVeQbnEcQbfNksQ73wg/edit?usp=sharing">Описание проекта и документация сайта</a></b></li>
@@ -55,7 +56,7 @@
     <li><b>Используемые технологии:</b> React, TypeScript, Sass, PHP</li>
     <li><b><a href="https://github.com/Ludmilaiv/approvecho">Код</a></b></li>
   </ul>
-</div>
+</details>
 
 
 <!--
