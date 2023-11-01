@@ -36,6 +36,7 @@
     <li><b>Заказчик:</b> <a href="https://kotelktm.ru/">ООО "КрасТеплоМаш"</a> в лице директора Хмелевского Артёма Александровича</li>
     <li><b><a href="https://docs.google.com/presentation/d/1lZ6JqIJbUf-6YieapZxhI2CFhIU2p0tHgJCWiAL0UZw/edit?usp=sharing">Описание проекта</a></b></li>
     <li><b><a href="https://apps.rustore.ru/app/ru.zavodktm.biomatic">Опубликованная версия</a></b></li>
+    <li><b>Используемые технологии:</b> React, Redux, Scss, PHP</li>
     <li><b>Код:</b>
       <ul>
         <li><a href="https://github.com/Ludmilaiv/zavodktm-react-app">Веб-приложение (react)</a></li>
@@ -45,7 +46,21 @@
     </li>
   </ul>
 
-  <h4>⚡ Система удалённого управления автоматическими твердотопливными котлами отопления на базе контроллера модели Biomatic</h4>
+  <h4>⚡ Сайт ресторана Аппровечо с админ-панелью</h4>
+  <ul>
+    <li><b>Заказчик:</b> ИП Мкртчян Хачатур </li>
+    <li><b><a href="https://docs.google.com/document/d/1-z_qBnKHtmhSAyiJwQDSHqaBjVeQbnEcQbfNksQ73wg/edit?usp=sharing">Описание проекта и документация сайта</a></b></li>
+    <li><b><a href="http://h913172l.beget.tech/">Опубликованная демо-версия</a></b></li>
+    <li><b><a href="http://h913172l.beget.tech/?administrator">Админ-панель демо-версии (пароль: admin)</a></b></li>
+    <li><b>Используемые технологии:</b> React, PHP</li>
+    <li><b>Код:</b>
+      <ul>
+        <li><a href="https://github.com/Ludmilaiv/zavodktm-react-app">Веб-приложение (react)</a></li>
+        <li><a href="https://github.com/Ludmilaiv/zavodktm_android_app">Приложение на Android (react + java)</a></li>
+        <li><a href="https://github.com/Ludmilaiv/zavodktm-php-app">API (PHP)</a></li>
+      </ul>
+    </li>
+  </ul>
 </div>
 
 
