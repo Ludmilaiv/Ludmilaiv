@@ -30,6 +30,21 @@
 </div>
 
 <h3>Мои проекты</h3>
+<div>
+  <h4>⚡ Система удалённого управления автоматическими твердотопливными котлами отопления на базе контроллера модели Biomatic</h4>
+  <ul>
+    <li><b>Заказчик:</b> <a href="https://kotelktm.ru/">ООО "КрасТеплоМаш"</a> в лице директора Хмелевского Артёма Александровича</li>
+    <li><b><a href="https://docs.google.com/presentation/d/1lZ6JqIJbUf-6YieapZxhI2CFhIU2p0tHgJCWiAL0UZw/edit?usp=sharing">Описание проекта</a></b></li>
+    <li><b><a href="https://apps.rustore.ru/app/ru.zavodktm.biomatic">Опубликованная версия</a></b></li>
+    <li><b>Код:</b>
+      <ul>
+        <li><a href="https://github.com/Ludmilaiv/zavodktm-react-app">Веб-приложение (react)</a></li>
+        <li><a href="https://github.com/Ludmilaiv/zavodktm_android_app">Приложение на Android (react + java)</a></li>
+        <li><a href="https://github.com/Ludmilaiv/zavodktm-php-app">API (PHP)</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
 
 
 <!--
