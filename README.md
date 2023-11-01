@@ -78,6 +78,16 @@
     <li><b><a href="https://github.com/Ludmilaiv/repair-design">Код</a></b></li>
   </ul>
 </details>
+<details>
+  <summary><b>⚡ Web-приложение для генерации сертификатов</b></summary>
+  <ul>
+    <li><b>Заказчик:</b> ООО "Айтигеник" (Школа программирования <a href="https://itgen.io/">Айтигенио</a>)</li>
+    <li><b>Описание проекта.</b> Проект создан для школы программирования Айтигенио в 2020 году. Предназначен для администраторов. Облегчает выдачу сертификатов (подарочных и итоговых).<br>Проект является командной разработкой. <b><i>Я отвечала в нём</i></b> за разработку программную часть фронтенда и бэкенда</li>
+    <li><b><a href="http://cert.itgen.io/">Опубликованная версия</a></b></li>
+    <li><b>Используемые мною технологии:</b> JavaScript, PHP, MySql</li>
+    <li><b><a href="https://github.com/Ludmilaiv/certificates">Код</a></b></li>
+  </ul>
+</details>
 
 <!--
 **Ludmilaiv/Ludmilaiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
