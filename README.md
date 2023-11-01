@@ -36,7 +36,7 @@
     <li><b>Заказчик:</b> <a href="https://kotelktm.ru/">ООО "КрасТеплоМаш"</a> в лице директора Хмелевского Артёма Александровича</li>
     <li><b><a href="https://docs.google.com/presentation/d/1lZ6JqIJbUf-6YieapZxhI2CFhIU2p0tHgJCWiAL0UZw/edit?usp=sharing">Описание проекта</a></b></li>
     <li><b><a href="https://apps.rustore.ru/app/ru.zavodktm.biomatic">Опубликованная версия</a></b></li>
-    <li><b>Используемые технологии:</b> React, Redux, Scss, PHP</li>
+    <li><b>Используемые технологии:</b> React, Redux, Scss, PHP, MySQL</li>
     <li><b>Код:</b>
       <ul>
         <li><a href="https://github.com/Ludmilaiv/zavodktm-react-app">Веб-приложение (react)</a></li>
@@ -53,11 +53,31 @@
     <li><b><a href="https://docs.google.com/document/d/1-z_qBnKHtmhSAyiJwQDSHqaBjVeQbnEcQbfNksQ73wg/edit?usp=sharing">Описание проекта и документация сайта</a></b></li>
     <li><b><a href="http://h913172l.beget.tech/">Опубликованная демо-версия</a></b></li>
     <li><b><a href="http://h913172l.beget.tech/?administrator">Админ-панель демо-версии</a></b>  (пароль: admin)</li>
-    <li><b>Используемые технологии:</b> React, TypeScript, Sass, PHP</li>
+    <li><b>Используемые технологии:</b> React, TypeScript, Sass, PHP, MySQL</li>
     <li><b><a href="https://github.com/Ludmilaiv/approvecho">Код</a></b></li>
   </ul>
 </details>
-
+<details>
+  <summary><b>⚡ Олимпиада по блочному программированию для детей в школе программирования Айтигенио</b></summary>
+  <ul>
+    <li><b>Заказчик:</b> ООО "Айтигеник" (Школа программирования <a href="https://itgen.io/">Айтигенио</a>)</li>
+    <li><b>Описание проекта.</b> Интерактивная олимпиада проводилась школой программирования Айтигенио в 2020 году. В 2022 году она была переработана и выложена в свободный доступ как <a href="https://quest.itgen.io/">квест игра от Айтигенио</a>.<br>Проект является командной разработкой. <b><i>Я отвечала в нём</i></b> за разработку уровней на базе библиотеки Google-blockly</li>
+    <li><b><a href="http://h913172l.beget.tech/">Опубликованная версия</a></b></li>
+    <li><b>Используемые мною технологии в версии 2020:</b> HTML, CSS, JavaScript, PHP, MySQL, Google-blockly</li>
+    <li><b>Используемые мною технологии в версии 2022:</b> React, TypeScript, Google-blockly</li>
+    <li><b><a href="https://github.com/Ludmilaiv/olympiad">Код версии 2020 года</a></b></li>
+    <li><b><a href="https://github.com/Ludmilaiv/quest-prog-2022">Код версии 2022 года (только уровни, за которые отвечала я)</a></b></li>
+  </ul>
+</details>
+<details>
+  <summary><b>⚡ Вёрстка сайта компании по ремонту квартир</b></summary>
+  <ul>
+    <li>Проект выполнен для демонстрации работы с вёрсткой</li>
+    <li><b><a href="https://ludmilaiv.github.io/repair-design/">Опубликованная демо-версия</a></b></li>
+    <li><b>Используемые мною технологии в версии 2020:</b> HTML, Sass</li>
+    <li><b><a href="https://github.com/Ludmilaiv/olympiad">Код</a></b></li>
+  </ul>
+</details>
 
 <!--
 **Ludmilaiv/Ludmilaiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
