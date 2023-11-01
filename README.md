@@ -75,7 +75,7 @@
     <li>Проект выполнен для демонстрации работы с вёрсткой</li>
     <li><b><a href="https://ludmilaiv.github.io/repair-design/">Опубликованная демо-версия</a></b></li>
     <li><b>Используемые мною технологии в версии 2020:</b> HTML, Sass</li>
-    <li><b><a href="https://github.com/Ludmilaiv/olympiad">Код</a></b></li>
+    <li><b><a href="https://github.com/Ludmilaiv/repair-design">Код</a></b></li>
   </ul>
 </details>
 
