@@ -12,8 +12,6 @@
 <div>
 🔭 На данный момент я работаю над системой удалённого управления котлами отопления на базе контроллера Biomatic.<br>
 🌱 Занимаюсь углублением знаний в TypeScript.<br>
-🤝 Ищу работу frontend, backand либо fullstack-разработчиком. <a href="https://krasnoyarsk.hh.ru/resume/bf84e1e1ff098e93990039ed1f546330734b64">Моё резюме на hh.ru</a><br>
-</div>
   
 <h3>Я использую технологии</h3>
 <div>
@@ -37,13 +35,6 @@
     <li><b><a href="https://docs.google.com/presentation/d/1lZ6JqIJbUf-6YieapZxhI2CFhIU2p0tHgJCWiAL0UZw/edit?usp=sharing">Описание проекта</a></b></li>
     <li><b><a href="https://apps.rustore.ru/app/ru.zavodktm.biomatic">Опубликованная версия</a></b></li>
     <li><b>Используемые технологии:</b> React, Redux, Scss, PHP, MySQL</li>
-    <li><b>Код:</b>
-      <ul>
-        <li><a href="https://github.com/Ludmilaiv/zavodktm-react-app">Веб-приложение (react)</a></li>
-        <li><a href="https://github.com/Ludmilaiv/zavodktm_android_app">Приложение на Android (react + java)</a></li>
-        <li><a href="https://github.com/Ludmilaiv/zavodktm-php-app">API (PHP)</a></li>
-      </ul>
-    </li>
   </ul>
 </details>
 <details>
